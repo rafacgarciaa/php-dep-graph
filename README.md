@@ -12,7 +12,6 @@ Say you have a set of resources that depend on each other in some way. These res
 
 ## API
 
-    /** @see \diacronos\DepGraph\DepGraph */
     require_once '../libs/diacronos/DepGraph/DepGraph.php';
     use \diacronos\DepGraph\DepGraph;
 
