@@ -12,7 +12,7 @@ Say you have a set of resources that depend on each other in some way. These res
 
 ## API
 
-    require_once '../libs/diacronos/DepGraph/DepGraph.php';
+    require_once 'path/to/libs/diacronos/DepGraph/DepGraph.php';
     use \diacronos\DepGraph\DepGraph;
 
     $deps = new DepGraph();
